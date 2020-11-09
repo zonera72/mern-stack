@@ -2,3 +2,6 @@
     text-decoration:line-through;
     color:red;
 }
+.error{
+    border: solid red 1px;;
+}
